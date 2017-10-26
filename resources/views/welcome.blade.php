@@ -82,6 +82,10 @@
                     Bienvenido a el Curso de GIT
                 </div>
 
+                   <div class="panel-body">
+                    <a href="http//www.styde.net">Styde.net</a>
+                </div>
+
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentos</a>
                     <a href="https://laracasts.com">Laracasts</a>
